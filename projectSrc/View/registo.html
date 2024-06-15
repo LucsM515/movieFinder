@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="container">
+        <section class="header">
+          <h2>Nova conta</h2>
+        </section>
+    
+        <form id="form" class="form">
+          <div class="form-content">
+            <label for="username">Nome do usuário</label>
+            <input type="text" id="username"placeholder="Digite o nome do usuario"/>
+          </div>
+    
+          <div class="form-content">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Digite o seu email"/>
+          </div>
+    
+          <div class="form-content">
+            <label for="password">Senha</label>
+            <input type="password" id="password" placeholder="Digite sua senha"/>
+            
+          </div>
+    
+          <div class="form-content">
+            <label for="password-confirmation">Confirmação de senha</label>
+            <input type="password" id="password-confirmation" placeholder="Confirme sua senha"/>
+          </div>
+
+          <div class="inputBox">
+            <label for="phone-number" >Telefone</label>
+            <input type="tel" name="telefone" id="phone-number" placeholder="Confirme sua senha">
+            
+        </div>
+        <p>Planos</p>
+        <input type="radio" id="mensal" name="plano" value="mensal" required>
+        <label for="mensal">Mensal = 25,99</label>
+        <br><br>
+        <input type="radio" id="bimestral" name="plano" value="bimestral" required>
+        <label for="bimestral">Bimestral = 20,99</label>
+        <br><br>
+        <input type="radio" id="anual" name="plano" value="anual" required>
+        <label for="anual">Anual = 15,99</label>
+        <br><br>
+            <label for="data_nascimento"><b>Data de Nascimento</b></label>
+            <input type="date" name="data_nascimento" id="data_nascimento" required>
+        <br><br>
+    
+          <button type="submit">Cadastrar</button>
+    
+        </form>
+    
+      </div>
+</body>
+</html>
