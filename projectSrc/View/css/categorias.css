@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.informations h1 {
+    color: white;
+    font-size: 3rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.acao{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.aventura{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.comedia{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.drama{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.romance{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.ficcao-cientifica{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.fantasia{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.terror{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.animacao{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.documentario{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.suspense{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+.musical{
+    color: white;
+    font-size: 2rem;
+    margin-top: 35px;
+    margin-left: 160px;
+}
+
+
+
+

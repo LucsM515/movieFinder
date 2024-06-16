@@ -87,20 +87,21 @@ body {
     color: var(--branco-padrao);
 }
 
-.form-enviar button {
+.form-enviar a {
     color: var(--branco-padrao);
     background-color: var(--cor-principal);
     align-items: center;
    width: 12rem;
    height: 3rem;
-   border-radius: 1rem;
+   padding: 10px 20px;
    font-size: 1.5rem;
    margin-bottom: 1rem;  
-
+   text-decoration: none;
+   border-radius: 10px;
 }
 
 .info_form{
-    margin-top: -14px;
+    margin-top: 14px;
 }
 
 .form-cds {
